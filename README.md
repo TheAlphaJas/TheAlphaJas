@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Jasmer Singh Sanjotra
+# Hey there! 👋 I'm Jasmer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jasmer-singh-sanjotra-a05b95250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
