@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm an **undergrad** at the **Indian Institute of 
 
 ## 🌱 Learning Goals
 - **Reinforcement Learning**
+- **TTS Systems with DL**
 - Mastering **probability**.
 - Fundamentals of **Deep learning** and **Autonomous systems**.
 - **LLMS!**
