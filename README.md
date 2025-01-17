@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=TheAlphaJas&color=blue)
 # Hey there! 👋 I'm Jasmer
 
 <p align="center">
@@ -9,8 +10,6 @@
 </p>
 
 Welcome to my GitHub profile! I'm an **undergrad** at the **Indian Institute of Technology Indore**, passionate about **deep learning**, **mathematics**, and **competitive programming**. I enjoy building systems that learn, adapt, and solve challenging problems.
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheAlphaJas&color=blue)
 
 ---
 
