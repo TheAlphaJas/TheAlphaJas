@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm an **undergrad** at the **Indian Institute of 
 - **Liver Tumor Segmentation**: Implemented advanced deep learning models like **HiFormer**, **G-CASCADE**, and **EfficientNet** for tumor segmentation on the LITS dataset using PyTorch and TensorFlow.
 - **EfficientNet-Based Video Emotion Detection Bot**: Developed a WhatsApp bot leveraging **EfficientNet** and **Twilio API** for video emotion detection.
 - **Competitive Programming Solutions**: Maintaining a repository for solutions to popular question banks like **USACO** and **CSES** problems.
-- **JXTech** - Developing and consolidating all my interests in one place! Check it out [here](https://https://jxtech-s.github.io/)
+- **JXTech** - Developing and consolidating all my interests in one place! Check it out [here](https://jxtech-s.github.io/)
 
 ---
 
