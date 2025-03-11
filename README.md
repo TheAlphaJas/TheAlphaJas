@@ -47,7 +47,6 @@ Welcome to my GitHub profile! I'm an **undergrad** at the **Indian Institute of 
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAlphaJas&theme=algolia"/>
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheAlphaJas&theme=algolia" />
    <img height="191em" src="https://github-readme-stats.vercel.app/api?username=TheAlphaJas&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
-   <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAlphaJas&theme=algolia&hide_border=true&stroke=0000"  />
 </a>
 <br>
 
