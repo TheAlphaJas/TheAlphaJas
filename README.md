@@ -1,6 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TheAlphaJas&color=blue)
 # Hey there! 👋 I'm Jasmer
 
+[This is kinda old. Working on my personal website, will update soon!]
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jasmer-singh-sanjotra-a05b95250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://codeforces.com/profile/von_Braun"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
