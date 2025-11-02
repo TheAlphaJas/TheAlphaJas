@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I'm an **undergrad** at the **Indian Institute of 
 
 ---
 
-## 🔭 Current Projects
+## 🔭 Current/Past Projects
+- **CausalRL**: Exploring the realms of correlation vs causation! (With application in Reinforcement Learning)
 - **rawML**: Building a lightweight ML library from scratch with a PyTorch-like API. [Check it out!](https://github.com/TheAlphaJas/rawML-Python)
 - **AVSE Project**: Worked on the **Audio-Visual Speech Enhancement Challenge**, with a research paper accepted at a conference. [Read the paper here!](https://www.isca-archive.org/avsec_2024/jain24_avsec.html)
 - **Liver Tumor Segmentation**: Implemented advanced deep learning models like **HiFormer**, **G-CASCADE**, and **EfficientNet** for tumor segmentation on the LITS dataset using PyTorch and TensorFlow.
@@ -25,9 +26,10 @@ Welcome to my GitHub profile! I'm an **undergrad** at the **Indian Institute of 
 ---
 
 ## 🌱 Learning Goals
+- **Convex Optimization**
 - **Reinforcement Learning**
 - **TTS Systems with DL**
-- Mastering **probability**.
+- Mastering **probability and statistics**.
 - Fundamentals of **Deep learning** and **Autonomous systems**.
 - **LLMS!**
 - **Low Latency Systems**
