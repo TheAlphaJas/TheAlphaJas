@@ -1,51 +1,79 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TheAlphaJas&color=blue)
 # Hey there! 👋 I'm Jasmer
 
-[This is kinda old. Working on my personal website, will update soon! - (check out the beta version [here!](https://thealphajas.github.io))]
+[Personal website revamp in progress — beta version here(may not be fully updated)! 🚧](https://thealphajas.github.io)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jasmer-singh-sanjotra-a05b95250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://codeforces.com/profile/von_Braun"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
   <a href="https://scholar.google.com/citations?user=NUCuUbIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="mailto:jasmer.sanjotra@proton.me"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:jasmer.sanjotra@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Welcome to my GitHub profile! I'm an **undergrad** at the **Indian Institute of Technology Indore**, passionate about **deep learning**, **mathematics**, and **competitive programming**. I enjoy building systems that learn, adapt, and solve challenging problems.
+Welcome to my GitHub profile! B.Tech undergrad at Indian Institute of Technology (IIT) Indore. I like machine learning systems, causal reasoning, signal processing, and building things from scratch.
+
+Currently/Previously worked on :
+- Causal Reinforcement Learning  
+- Algorithmic Decision Making  
+- Communication Systems & 6G  
+- Speech & Audio Processing  
+- Medical Imaging  
+
+[CV - If Interested!](https://github.com/TheAlphaJas/TheAlphaJas/blob/main/Academic_CV.pdf)
 
 ---
 
-## 🔭 Current/Past Projects
-- **CausalRL**: Exploring the realms of correlation vs causation! (With application in Reinforcement Learning)
-- **rawML**: Building a lightweight ML library from scratch with a PyTorch-like API. [Check it out!](https://github.com/TheAlphaJas/rawML-Python)
-- **AVSE Project**: Worked on the **Audio-Visual Speech Enhancement Challenge**, with a research paper accepted at a conference. [Read the paper here!](https://www.isca-archive.org/avsec_2024/jain24_avsec.html)
-- **Liver Tumor Segmentation**: Implemented advanced deep learning models like **HiFormer**, **G-CASCADE**, and **EfficientNet** for tumor segmentation on the LITS dataset using PyTorch and TensorFlow.
-- **EfficientNet-Based Video Emotion Detection Bot**: Developed a WhatsApp bot leveraging **EfficientNet** and **Twilio API** for video emotion detection.
-- **Competitive Programming Solutions**: Maintaining a repository for solutions to popular question banks like **USACO** and **CSES** problems.
-- **JXTech** - Developing and consolidating all my interests in one place! Check it out [here](https://jxtech-s.github.io/)
+## Current / Recent Work
+
+### Causal Reinforcement Learning (Ongoing Research)
+- Exploring correlation vs causation in sequential decision-making settings.
+- Studying structural causal models (SCMs) for RL environments.
+- Strong theoretical + algorithmic focus (not just empirical RL).
 
 ---
 
-## 🌱 Learning Goals
-- **Convex Optimization**
-- **Reinforcement Learning**
-- **TTS Systems with DL**
-- Mastering **probability and statistics**.
-- Fundamentals of **Deep learning** and **Autonomous systems**.
-- **LLMS!**
-- **Low Latency Systems**
-- **Game Theory**
+### Speech Synthesis with In-The-Wild (ITW) Data
+- Studying TTS systems trained on noisy, unconstrained real-world speech.
+- Investigating evaluation gaps between traditional metrics (e.g., DNSMOS/UTMOS) and perceptual quality in ITW setups.
+- Goal: bridge controlled lab-quality TTS and messy real-world deployment.
 
 ---
 
-## 💻 Technical Skills
-- **Languages**: C++, Python
-- **Libraries/Frameworks**: PyTorch, TensorFlow, NumPy
-- **Tools**: MATLAB/Simulink, Git/GitHub, Flask
-- **Systems**: Linux, Windows
+### 6G & CSI-RS (Samsung R&D Institute India – 2025)
+- Worked with the 6G Standards Team on ML-based CSI-RS processing.
+
+---
+
+### Audio-Visual Speech Enhancement (OPTIMAL Lab, IIT Indore)
+- Developed LSTMSE-Net (accepted at InterspeechW 2024 – AVSEC).
+- Engineered temporal feature extraction pipelines using RNN/LSTM.
+- Next version in current development
+
+---
+
+### Medical Image Segmentation (LIPG, IIT Indore & Northwestern U)
+- Built advanced U-Net variants for liver & tumor segmentation.
+- Integrated SE blocks, ASPP modules.
+- Co-authored multiple papers in:
+  - *Biomedical Signal Processing and Control (Elsevier)*
+  - *Frontiers in Medicine (2025)*
+
+---
+
+## Current Learning Directions
+
+- Causal Inference for Sequential Decision Making  
+- Robust & Distribution-Shift-Aware RL  
+- Diffusion & State-Space Models  
+- Low-Latency Speech Generation  
+- Advanced Communication & Information Theory  
+- Convex Optimization
+- Probability Theory and Statistics
 
 ---
 
 ## 📈 Stats
+
 <div align="center">
   <a href="https://github.com/TheAlphaJas">
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAlphaJas&theme=algolia"/>
@@ -56,6 +84,5 @@ Welcome to my GitHub profile! I'm an **undergrad** at the **Indian Institute of 
 
 ---
 
-See you around!
 
 _"Every algorithm is a small step towards defining and understanding intelligence."_ ✨
