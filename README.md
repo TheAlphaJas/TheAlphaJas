@@ -19,7 +19,7 @@ Currently/Previously worked on :
 - Speech & Audio Processing  
 - Medical Imaging  
 
-[CV - If Interested!](https://github.com/TheAlphaJas/TheAlphaJas/blob/main/Academic_CV_Latest.pdf)
+[CV - If Interested!](https://github.com/TheAlphaJas/TheAlphaJas/blob/main/Academic_CV-3.pdf)
 
 ---
 
