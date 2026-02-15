@@ -32,7 +32,7 @@ Currently/Previously worked on :
 
 ---
 
-### Speech Synthesis with In-The-Wild (ITW) Data
+### Speech Synthesis with In-The-Wild (ITW) Data [LIPG & RUG-NL]
 - Studying TTS systems trained on noisy, unconstrained real-world speech.
 - Investigating evaluation gaps between traditional metrics (e.g., DNSMOS/UTMOS) and perceptual quality in ITW setups.
 - Goal: bridge controlled lab-quality TTS and messy real-world deployment.
