@@ -10,7 +10,8 @@
   <a href="mailto:jasmer.sanjotra@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Welcome to my GitHub profile! B.Tech undergrad at Indian Institute of Technology (IIT) Indore. I like machine learning systems, causal reasoning, signal processing, and building things from scratch.
+Welcome to my GitHub profile! 
+B.Tech undergrad at Indian Institute of Technology (IIT) Indore. I like machine learning systems, causal reasoning, signal processing, and building things from scratch.
 
 Currently/Previously worked on :
 - Causal Reinforcement Learning  
@@ -25,14 +26,15 @@ Currently/Previously worked on :
 
 ## Current / Recent Work
 
-### Causal Reinforcement Learning (Ongoing Research)
+### Causal Reinforcement Learning (Dr. Dibbendu Roy, Ongoing Research)
 - Exploring correlation vs causation in sequential decision-making settings.
 - Studying structural causal models (SCMs) for RL environments.
 - Strong theoretical + algorithmic focus (not just empirical RL).
+- Check out final BTP slides [here](https://github.com/TheAlphaJas/TheAlphaJas/blob/main/P1_updated.pdf). Final report [here](https://github.com/TheAlphaJas/TheAlphaJas/blob/main/BTP_Report_Final.pdf)
 
 ---
 
-### Speech Synthesis with In-The-Wild (ITW) Data [LIPG & RUG-NL]
+### Speech Synthesis with In-The-Wild (ITW) Data (LIPG,IITI & RUG-NL(Campus Fryslân), Ongoing Research)
 - Studying TTS systems trained on noisy, unconstrained real-world speech.
 - Investigating evaluation gaps between traditional metrics (e.g., DNSMOS/UTMOS) and perceptual quality in ITW setups.
 - Goal: bridge controlled lab-quality TTS and messy real-world deployment.
@@ -44,7 +46,7 @@ Currently/Previously worked on :
 
 ---
 
-### Audio-Visual Speech Enhancement (OPTIMAL Lab, IIT Indore)
+### Audio-Visual Speech Enhancement (OPTIMAL Lab, IIT Indore, Ongoing Research)
 - Developed LSTMSE-Net (accepted at InterspeechW 2024 – AVSEC).
 - Engineered temporal feature extraction pipelines using RNN/LSTM.
 - Next version in current development
@@ -64,11 +66,12 @@ Currently/Previously worked on :
 
 - Causal Inference for Sequential Decision Making  
 - Robust & Distribution-Shift-Aware RL  
-- Diffusion & State-Space Models  
-- Low-Latency Speech Generation  
 - Advanced Communication & Information Theory  
 - Convex Optimization
-- Probability Theory and Statistics
+- Elementary Measure Theory, Probability Theory and Statistics
+- Group Theory (Welcome Abstract Algebra!)
+- Game Theory & Mechanism Design
+- Misc - Competitve Programming when I get the time!
 
 ---
 
@@ -78,7 +81,6 @@ Currently/Previously worked on :
   <a href="https://github.com/TheAlphaJas">
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAlphaJas&theme=algolia"/>
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheAlphaJas&theme=algolia" />
-   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=TheAlphaJas&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
 </a>
 <br>
 
