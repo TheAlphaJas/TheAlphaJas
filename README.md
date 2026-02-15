@@ -30,7 +30,7 @@ Currently/Previously worked on :
 - Exploring correlation vs causation in sequential decision-making settings.
 - Studying structural causal models (SCMs) for RL environments.
 - Strong theoretical + algorithmic focus (not just empirical RL).
-- Check out final BTP slides [here](https://github.com/TheAlphaJas/TheAlphaJas/blob/main/P1_updated.pdf). Final report [here](https://github.com/TheAlphaJas/TheAlphaJas/blob/main/BTP_Report_Final.pdf)
+- Check out final slides [here](https://github.com/TheAlphaJas/TheAlphaJas/blob/main/P1_updated.pdf). Final report [here](https://github.com/TheAlphaJas/TheAlphaJas/blob/main/BTP_Report_Final.pdf)
 
 ---
 
